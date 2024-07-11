@@ -1,0 +1,7 @@
+DDB_NAME=ecommerce_db
+DB_USER=root
+DB_PASSWORD=4Maxfam5
+DB_HOST=localhost
+DB_DIALECT=mysql
+
+
